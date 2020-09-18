@@ -1,1 +1,1 @@
-# Description about character encoding
+Description about character encoding
